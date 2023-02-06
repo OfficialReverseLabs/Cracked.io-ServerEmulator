@@ -1,6 +1,6 @@
 # Cracked.io-ServerEmulator
 
-Server Emulator for https://cracked.io/ Auth. Made by https://github.com/CabboShiba &amp; https://github.com/FaxHack
+Server Emulator for https://cracked.io/auth. Made by https://github.com/CabboShiba &amp; https://github.com/FaxHack
 
 # How it works
 
@@ -43,7 +43,7 @@ THIS IS NOT THE SAME EMULATION AS Cracked.io Auth "BYPASSES". THE TERM EMULATION
 
 Projects Developer:
 
-https://t.me/OfficialChaos | https://github.com/FaxHack
+https://github.com/FaxHack
 
 FreeCabbo11#9191 - https://t.me/CabboShiba | https://github.com/CabboShiba
 
@@ -57,9 +57,9 @@ https://github.com/chronoxor/NetCoreServer#example-https-server - Libray used to
 
 # Do you want to contact me?
 
-Discord: Porqwae#3952 - New Account.
+Discord: Not Available.
 
-Telegram: https://t.me/OfficialChaos
+Telegram: Not Available.
 
 # Status
 
