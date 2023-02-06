@@ -39,7 +39,7 @@ FreeCabbo11#9191 - https://t.me/CabboShiba | https://github.com/CabboShiba
 
 # Other Releases
 
-https://github.com/FaxHack/Cracked.ioServerEmulator
+https://github.com/CabboShiba/Cracked.ioServerEmulator/
 
 # Library used
 
@@ -47,6 +47,16 @@ https://github.com/chronoxor/NetCoreServer#example-https-server - Libray used to
 
 # Do you want to contact me?
 
-Discord: FreeCabbo11#9191 - New Account. Please do not contact me anymore on FreeCabbo10, it got termed.
+Discord: Porqwae#3952 - New Account.
 
-Telegram: https://t.me/cabboshiba
+Telegram: https://t.me/OfficialChaos
+
+# Status
+
+Working: 01/02/2023
+
+# Change Log:
+
+V 1.0 - Released Emulator
+
+V 1.1 - Added way to successfully rolled back modifications to the hosts file upon closure of the tool.
